@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Cicero Alisson! 👩‍💻
+## Hi there, I'm Cicero dos Santos! 👩‍💻
  <div>
   <a href="https://github.com/cicerosantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cicerosantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
